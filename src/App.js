@@ -64,7 +64,7 @@ function App() {
               <TableRow>
                 <TableCell>ID</TableCell>
                 <TableCell>Title</TableCell>
-                <TableBody>Body</TableBody>
+                <TableCell>Body</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
